@@ -1,0 +1,16 @@
+{
+  "name": "pc",
+  "version": "1.0.0",
+  "description": "Mi proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
